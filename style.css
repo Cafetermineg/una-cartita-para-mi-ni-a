@@ -105,7 +105,7 @@ body{
   z-index: 0;
 }
 .flap > .envelope > .letter {
-  bottom: 140px;
+  bottom: 170px;
   transform: scale(1.5);
   transition-delay: 1s;
 }
